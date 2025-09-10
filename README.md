@@ -75,8 +75,8 @@ The design is inspired by the **JSON prompting methodology** for professional vi
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
-cd google-calendar-codewords
+git clone https://github.com/Bound3R/video-prompty.git
+cd video-prompty
 ```
 
 2. Open your browser and navigate to the `index.html` file in the project directory.
